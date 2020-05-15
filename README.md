@@ -1,2 +1,2 @@
 # workflow-demo
-I've changed this
+Demonstration of branches, merging, and git workflow.
